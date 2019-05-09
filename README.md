@@ -9,4 +9,4 @@ Brian S. Haney, Intelligence Patent Database, Martian's Technologies, GitHub (20
 
 Copyright
 ---
-Martian Technologies 2019
+Copyright Martian Technologies 2019
