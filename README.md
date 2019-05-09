@@ -5,7 +5,7 @@ This repository is a working database of patents relating to intelligent systems
 
 Citation
 ---
-Brian S. Haney, Intelligence Patent Database, Martian's Technologies, GitHub (2019)https://github.com/Bhaney44/Intelligence_Database.
+Brian S. Haney, Intelligence Patent Database, Martian's Technologies, GitHub (2019) https://github.com/Bhaney44/Intelligence_Database.
 
 Copyright
 ---
