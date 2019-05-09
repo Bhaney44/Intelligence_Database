@@ -3,7 +3,7 @@ Intelligence Patent Database
 Summary
 ---
 
-This repository is a database of patent information relating to intelligent systems sampled from our proprietary intelligence patent database. The Intelligence Patent Database includes the patent number, title, classification numbers, abstracts, inventors, assignees, and claims for all artificial intelligence patents, including: reinforcement learning, quantum computing, deep learning, k-means clustering and more.
+This repository is a database of patent information relating to intelligent systems sampled from our proprietary Intelligence Patent Database. The complete Intelligence Patent Database includes the patent number, title, classification numbers, abstracts, inventors, assignees, and claims for all artificial intelligence patents, including: reinforcement learning, quantum computing, deep learning, k-means clustering and more.
 
 Citation
 ---
