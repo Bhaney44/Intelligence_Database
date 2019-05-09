@@ -1,6 +1,5 @@
-#Intelligence Patent Database
----
-
+Intelligence Patent Database
+--
 Summary
 ---
 
