@@ -1,9 +1,9 @@
-Intelligence Patent Database
+Martian's Intelligence Patent Database
 --
 Summary
 ---
 
-This repository contains a sample of data relating to artificial intelligence patents from our proprietary Intelligence Patent Database. The complete Intelligence Patent Database includes the patent number, title, classification numbers, abstracts, inventors, assignees, and claims for all artificial intelligence patents, including: reinforcement learning, quantum computing, supervised learning, and more.
+This repository contains a sample of data relating to artificial intelligence patents from Martian's Intelligence Patent Database. Martian's Intelligence Patent Database is a proprietary database including: the patent number, title, classification numbers, abstracts, inventors, assignees, and claims for artificial intelligence patents.
 
 Citation
 ---
